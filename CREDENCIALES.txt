@@ -1,0 +1,11 @@
+**USUARIOS DE PRUEBA – TASKLY**
+
+**Administrador**
+
+- Usuario: `admin`
+- Contraseña: `admin123`
+
+**Usuario**
+
+- Usuario: `usuario`
+- Contraseña: `usuario123`
